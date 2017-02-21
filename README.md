@@ -16,3 +16,4 @@ https://en.wikipedia.org/wiki/Gibbs_sampling
 https://en.wikipedia.org/wiki/Random_walk
 http://tm.r-forge.r-project.org/faq.html#Bigrams
 https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/
+http://www.codemiles.com/r-examples/topic-modeling-using-lda-in-r-t11119.html
