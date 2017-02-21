@@ -2,6 +2,8 @@
 How to create bigram topic models using R.
 
 The data contains 30 documents.
+Data link:
+http://hereticsconsulting.files.wordpress.com/2016/01/textmining.zip
 
 NLP alogorithm used - LDA.
 R packages used - "tm", "topicmodels"
